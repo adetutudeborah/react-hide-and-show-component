@@ -8,7 +8,7 @@ const App = () => {
     { id: 1, name: "Sophia Anderson", profilePic: "https://rb.gy/9jh39" },
     { id: 2, name: "Isabella Sullivan", profilePic: "https://rb.gy/gs5lt" },
     { id: 3, name: "Ava Reynolds", profilePic: "https://rb.gy/rs32e" },
-    { id: 4, name: "Olivia Thompson", profilePic: "https://rb.gy/3wy0n"},
+    { id: 4, name: "Olivia Thompson", profilePic: "https://rb.gy/xbjed"},
     
   ])
 
