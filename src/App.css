@@ -5,6 +5,7 @@
 
 .profile-card{
   display: flex;
+  flex-direction: row;
   justify-content: space-around;
   margin-top: 4rem;
 }
@@ -62,6 +63,19 @@
 
 .profile-btn:hover{
   background-color: #9393B2;
-  /* background-color: #B8B8BF; */
   color: #ffff;
+}
+
+@media screen and (max-width: 1400px) { 
+
+  .profile-card{
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+  }
+
+  .card{
+    margin-top: 3rem;
+  }
+
 }
